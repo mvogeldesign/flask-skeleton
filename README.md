@@ -2,7 +2,7 @@
 
 Flask starter project...
 
-[![Build Status](https://travis-ci.org/realpython/flask-skeleton.svg?branch=master)](https://travis-ci.org/realpython/flask-skeleton)
+[![Build Status](http://167.99.30.152/api/badges/matt/flask-skeleton/status.svg)](http://167.99.30.152/matt/flask-skeleton)
 
 ## Quick Start
 
